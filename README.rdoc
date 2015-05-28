@@ -2,8 +2,10 @@
 
 This is a sample app for a laundromat that wants to develop a customer database that includes phone numbers and emails so that when the customer's laundry is done, the system will automatically email or send them a text message!
 
-Outstanding question: how to indicate laundry is done? Will a clerk do this manually? Will a list be generated each day at a particular time and clerks can simply click a box if the laundry is finished?
+Outstanding questions: 
+* How to indicate laundry is done? Will a clerk do this manually? Will a list be generated each day at a particular time and clerks can simply click a box if the laundry is finished?
+* Phone number or email lookup? Emails are unique but phone numbers are easier to take down from the clerk's perspective.
+
 
 Email generated: "The [num] items you dropped off on x day are ready to be picked up from Seaspray Laundry!"
-
 Text generated: "Your [num] items are ready to be picked up from Seaspray Laundry!"
