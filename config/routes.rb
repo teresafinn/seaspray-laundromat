@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  # root 'order#new'
+  root 'orders#new'
   resources :orders
 
 
